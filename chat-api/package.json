@@ -1,0 +1,22 @@
+{
+  "name": "chat-api",
+  "version": "1.0.0",
+  "description": "A node js with mongo db Api",
+  "main": "App.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16",
+    "nodemon": "^1.17.3",
+    "npm": "^6.0.0",
+    "socket.io": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ME",
+  "license": "ISC"
+}
